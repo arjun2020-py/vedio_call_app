@@ -1,16 +1,4 @@
 # vedio_call_app
+![vedio](https://github.com/arjun2020-py/vedio_call_app/assets/69357545/8a680834-937d-4771-938b-5c5465d42dad)
+![WhatsApp Image 2024-05-31 at 3 59 11 PM](https://github.com/arjun2020-py/vedio_call_app/assets/69357545/b2ae04ca-2e1b-4bd2-93e0-d12cebade654)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
